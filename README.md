@@ -1,4 +1,3 @@
-### Hey Yo!! I am FishPain! 🐟
+### Hey Yo!! It's FishPain! 🐟
 So you've found me on github 👀 Feel free to look around!😊
 I'm currently exploring 🔍 Node.Js/ AI 🤖/ Quantum Computing 💻
-<!--You've found the second Easter Egg! 🥚-->
