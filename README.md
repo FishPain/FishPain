@@ -1,7 +1,6 @@
 ## Hey Yo!! It's FishPain! 🐟
 ### So you've found me on github 👀 Feel free to look around!😊
 <br>
-
 ### Studying 📚 Business Intelligence And Analytics 📊
 ### Exploring 🔍 Assembly & C 👾/ Machine learning 🤖/ Compiler & Programming Language Design 💻
 
