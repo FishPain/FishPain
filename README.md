@@ -1,5 +1,5 @@
-### Hey Yo!! It's FishPain! 🐟
-So you've found me on github 👀 Feel free to look around!😊
+## Hey Yo!! It's FishPain! 🐟
+### So you've found me on github 👀 Feel free to look around!😊
 
 ### Studying 📚 Business Intelligence And Analytics 📊
 ### Exploring 🔍 Assembly & C 👾/ Machine learning 🤖/ Compiler & Programming Language Design 💻
