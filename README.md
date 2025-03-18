@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishpain&show_icons=true&theme=dark&locale=en&layout=compact" alt="fishpain" />
+<img width=30% height=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fishpain&show_icons=true&theme=dark&locale=en&layout=compact" alt="fishpain" />
+<img width=45% height=45% align="center" src="https://github-readme-stats.vercel.app/api?username=fishpain&show_icons=true&theme=dark&hide_title=true" alt="fishpain" />
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fishpain&show_icons=true&theme=dark&hide_title=true" alt="fishpain" />
-</p>
