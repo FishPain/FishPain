@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Studying Applied AI @ Singapore Institute of Technology 📚</h3>
 <h3 align="center">Mainly working on AI solutioning for enterprise B2B software 👨‍💻</h3>
 
 <p align="center">
